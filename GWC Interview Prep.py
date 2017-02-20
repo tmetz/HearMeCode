@@ -1,3 +1,6 @@
+# I accidentally overwrote this file while playing around with an interview question for Girls Who Code.
+# This actually determines whether any 2 numbers in an array add to 100
+
 import random
 
 """
